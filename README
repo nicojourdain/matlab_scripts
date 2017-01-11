@@ -1,0 +1,9 @@
+# matlab_scripts
+Useful matlab scripts from various sources including myself
+
+The following files are here to facilitate their use by students, but have been written and made available by :
+adjust_quiver_arrowhead_size.m: Kevin J. Delaney
+arrow.m:    Erik A. Johnson <johnsone@uiuc.edu>
+cbfreeze.m: Carlos Adrian Vargas Aguilera <nubeobscura@hotmail.com>
+cbhandle.m: Carlos Adrian Vargas Aguilera <nubeobscura@hotmail.com>
+spear.m:    Alexandros Leontitsis <leoaleq@yahoo.com>
